@@ -1,0 +1,80 @@
+
+===== lambda 0.0 | countries 127.4 [117,134] | obs 4207
+  fits: FE=1000 IV=1000 DGMM=1000 SGMM=1000
+  DGMM inst 6 J 0.035/0.029 AR2 0.029 | SGMM inst 11 J 0.181/0.056 AR2 0.033 | CD 0.052 Wool 1.000 (rho -0.33) | IV F 15.0/5.2
+  FE   alpha  bias -0.0048 rb    -0.7 sd 0.0039 rmse 0.0061 mcse 0.0001 medb -0.0046 mae 0.0047 cov 0.749
+  FE   b1     bias +0.0049 rb    +0.7 sd 0.0068 rmse 0.0084 mcse 0.0002 medb +0.0048 mae 0.0059 cov 0.875
+  FE   b2     bias -0.0002 rb    -5.6 sd 0.0030 rmse 0.0031 mcse 0.0001 medb -0.0001 mae 0.0020 cov 0.955
+  FE   b3     bias -0.0001 rb    +0.6 sd 0.0008 rmse 0.0009 mcse 0.0000 medb -0.0001 mae 0.0006 cov 0.943
+  IV   alpha  bias +0.1337 rb   +19.1 sd 3.8538 rmse 3.8542 mcse 0.1219 medb -0.0072 mae 0.0851 cov 0.999
+  IV   b1     bias +0.3316 rb   +47.4 sd 10.1363 rmse 10.1367 mcse 0.3205 medb -0.0110 mae 0.2656 cov 1.000
+  IV   b2     bias +0.0010 rb   +31.9 sd 0.0278 rmse 0.0278 mcse 0.0009 medb -0.0003 mae 0.0037 cov 0.984
+  IV   b3     bias -0.0017 rb   +11.4 sd 0.0548 rmse 0.0548 mcse 0.0017 medb +0.0000 mae 0.0014 cov 0.984
+  DGMM alpha  bias -0.0068 rb    -1.0 sd 0.1019 rmse 0.1020 mcse 0.0032 medb -0.0063 mae 0.0497 cov 0.990
+  DGMM b1     bias -0.0145 rb    -2.1 sd 0.3328 rmse 0.3329 mcse 0.0105 medb -0.0128 mae 0.1374 cov 0.995
+  DGMM b2     bias -0.0002 rb    -8.1 sd 0.0049 rmse 0.0049 mcse 0.0002 medb -0.0005 mae 0.0031 cov 0.968
+  DGMM b3     bias -0.0000 rb    +0.3 sd 0.0017 rmse 0.0017 mcse 0.0001 medb -0.0000 mae 0.0010 cov 0.974
+  SGMM alpha  bias +0.0186 rb    +2.7 sd 0.0348 rmse 0.0394 mcse 0.0011 medb +0.0185 mae 0.0259 cov 0.839
+  SGMM b1     bias -0.0081 rb    -1.2 sd 0.0520 rmse 0.0526 mcse 0.0016 medb -0.0079 mae 0.0353 cov 0.921
+  SGMM b2     bias -0.0005 rb   -16.6 sd 0.0058 rmse 0.0058 mcse 0.0002 medb -0.0004 mae 0.0038 cov 0.969
+  SGMM b3     bias -0.0000 rb    +0.1 sd 0.0016 rmse 0.0016 mcse 0.0001 medb -0.0000 mae 0.0010 cov 0.967
+
+===== lambda 0.3 | countries 127.4 [118,135] | obs 4208
+  fits: FE=1000 IV=1000 DGMM=1000 SGMM=1000
+  DGMM inst 6 J 0.035/0.036 AR2 0.039 | SGMM inst 11 J 0.178/0.078 AR2 0.053 | CD 0.054 Wool 1.000 (rho -0.29) | IV F 9.2/3.4
+  FE   alpha  bias -0.0829 rb   -11.8 sd 0.0044 rmse 0.0830 mcse 0.0001 medb -0.0830 mae 0.0830 cov 0.000
+  FE   b1     bias +0.2202 rb   +31.5 sd 0.0079 rmse 0.2204 mcse 0.0002 medb +0.2205 mae 0.2205 cov 0.000
+  FE   b2     bias +0.0000 rb    +0.9 sd 0.0036 rmse 0.0036 mcse 0.0001 medb +0.0000 mae 0.0024 cov 0.935
+  FE   b3     bias -0.0012 rb    +7.8 sd 0.0009 rmse 0.0015 mcse 0.0000 medb -0.0012 mae 0.0012 cov 0.747
+  IV   alpha  bias +0.0105 rb    +1.5 sd 1.6443 rmse 1.6435 mcse 0.0520 medb +0.0107 mae 0.0952 cov 0.995
+  IV   b1     bias +0.1720 rb   +24.6 sd 7.0202 rmse 7.0188 mcse 0.2220 medb +0.0440 mae 0.2952 cov 0.995
+  IV   b2     bias +0.0039 rb  +129.2 sd 0.0626 rmse 0.0627 mcse 0.0020 medb -0.0001 mae 0.0041 cov 0.978
+  IV   b3     bias -0.0003 rb    +1.7 sd 0.0163 rmse 0.0163 mcse 0.0005 medb +0.0001 mae 0.0015 cov 0.976
+  DGMM alpha  bias +0.0111 rb    +1.6 sd 0.1134 rmse 0.1139 mcse 0.0036 medb +0.0112 mae 0.0585 cov 0.988
+  DGMM b1     bias +0.0889 rb   +12.7 sd 0.3795 rmse 0.3896 mcse 0.0120 medb +0.0688 mae 0.1779 cov 0.987
+  DGMM b2     bias +0.0000 rb    +0.5 sd 0.0056 rmse 0.0056 mcse 0.0002 medb -0.0001 mae 0.0036 cov 0.967
+  DGMM b3     bias -0.0001 rb    +0.5 sd 0.0020 rmse 0.0020 mcse 0.0001 medb -0.0000 mae 0.0012 cov 0.968
+  SGMM alpha  bias +0.0178 rb    +2.5 sd 0.0379 rmse 0.0418 mcse 0.0012 medb +0.0189 mae 0.0286 cov 0.877
+  SGMM b1     bias -0.0110 rb    -1.6 sd 0.0574 rmse 0.0584 mcse 0.0018 medb -0.0096 mae 0.0372 cov 0.924
+  SGMM b2     bias -0.0001 rb    -4.1 sd 0.0065 rmse 0.0065 mcse 0.0002 medb -0.0001 mae 0.0044 cov 0.969
+  SGMM b3     bias +0.0001 rb    -0.6 sd 0.0019 rmse 0.0019 mcse 0.0001 medb +0.0001 mae 0.0012 cov 0.973
+
+===== lambda 0.6 | countries 127.5 [117,134] | obs 4212
+  fits: FE=1000 IV=1000 DGMM=1000 SGMM=1000
+  DGMM inst 6 J 0.042/0.041 AR2 0.055 | SGMM inst 11 J 0.157/0.045 AR2 0.056 | CD 0.173 Wool 1.000 (rho -0.23) | IV F 6.0/1.7
+  FE   alpha  bias -0.1620 rb   -23.1 sd 0.0049 rmse 0.1621 mcse 0.0002 medb -0.1621 mae 0.1621 cov 0.000
+  FE   b1     bias +0.4682 rb   +66.9 sd 0.0090 rmse 0.4683 mcse 0.0003 medb +0.4685 mae 0.4685 cov 0.000
+  FE   b2     bias +0.0000 rb    +1.1 sd 0.0038 rmse 0.0038 mcse 0.0001 medb +0.0002 mae 0.0026 cov 0.948
+  FE   b3     bias -0.0023 rb   +15.3 sd 0.0012 rmse 0.0026 mcse 0.0000 medb -0.0023 mae 0.0023 cov 0.442
+  IV   alpha  bias -0.0047 rb    -0.7 sd 2.6364 rmse 2.6350 mcse 0.0834 medb +0.0112 mae 0.1009 cov 0.994
+  IV   b1     bias +0.1861 rb   +26.6 sd 7.6752 rmse 7.6736 mcse 0.2427 medb +0.1047 mae 0.3794 cov 0.988
+  IV   b2     bias +0.0005 rb   +17.5 sd 0.0472 rmse 0.0472 mcse 0.0015 medb +0.0004 mae 0.0057 cov 0.977
+  IV   b3     bias -0.0001 rb    +0.8 sd 0.0209 rmse 0.0208 mcse 0.0007 medb -0.0001 mae 0.0020 cov 0.981
+  DGMM alpha  bias +0.0092 rb    +1.3 sd 0.1316 rmse 0.1318 mcse 0.0042 medb +0.0043 mae 0.0633 cov 0.978
+  DGMM b1     bias +0.2375 rb   +33.9 sd 0.5120 rmse 0.5641 mcse 0.0162 medb +0.2002 mae 0.2759 cov 0.925
+  DGMM b2     bias +0.0000 rb    +1.0 sd 0.0072 rmse 0.0072 mcse 0.0002 medb +0.0002 mae 0.0047 cov 0.971
+  DGMM b3     bias +0.0000 rb    -0.1 sd 0.0026 rmse 0.0026 mcse 0.0001 medb +0.0000 mae 0.0016 cov 0.968
+  SGMM alpha  bias +0.0199 rb    +2.8 sd 0.0499 rmse 0.0537 mcse 0.0016 medb +0.0218 mae 0.0363 cov 0.879
+  SGMM b1     bias -0.0170 rb    -2.4 sd 0.0830 rmse 0.0846 mcse 0.0026 medb -0.0187 mae 0.0555 cov 0.915
+  SGMM b2     bias -0.0003 rb   -11.2 sd 0.0089 rmse 0.0089 mcse 0.0003 medb -0.0001 mae 0.0056 cov 0.954
+  SGMM b3     bias +0.0003 rb    -1.7 sd 0.0026 rmse 0.0026 mcse 0.0001 medb +0.0002 mae 0.0017 cov 0.945
+
+===== lambda 0.9 | countries 127.3 [118,134] | obs 4208
+  fits: FE=1000 IV=1000 DGMM=1000 SGMM=1000
+  DGMM inst 6 J 0.052/0.051 AR2 0.104 | SGMM inst 11 J 0.132/0.052 AR2 0.047 | CD 0.315 Wool 1.000 (rho -0.18) | IV F 4.8/1.1
+  FE   alpha  bias -0.2380 rb   -34.0 sd 0.0056 rmse 0.2380 mcse 0.0002 medb -0.2381 mae 0.2381 cov 0.000
+  FE   b1     bias +0.7408 rb  +105.8 sd 0.0113 rmse 0.7409 mcse 0.0004 medb +0.7411 mae 0.7411 cov 0.000
+  FE   b2     bias -0.0000 rb    -1.2 sd 0.0044 rmse 0.0044 mcse 0.0001 medb -0.0000 mae 0.0029 cov 0.938
+  FE   b3     bias -0.0034 rb   +22.4 sd 0.0014 rmse 0.0036 mcse 0.0000 medb -0.0033 mae 0.0033 cov 0.264
+  IV   alpha  bias +0.0760 rb   +10.9 sd 2.8860 rmse 2.8855 mcse 0.0913 medb -0.0166 mae 0.0993 cov 0.981
+  IV   b1     bias +0.6882 rb   +98.3 sd 11.7093 rmse 11.7236 mcse 0.3703 medb +0.2525 mae 0.5846 cov 0.953
+  IV   b2     bias -0.0025 rb   -83.5 sd 0.0767 rmse 0.0767 mcse 0.0024 medb -0.0004 mae 0.0070 cov 0.988
+  IV   b3     bias +0.0013 rb    -8.4 sd 0.0264 rmse 0.0264 mcse 0.0008 medb +0.0001 mae 0.0024 cov 0.992
+  DGMM alpha  bias -0.0483 rb    -6.9 sd 0.1676 rmse 0.1743 mcse 0.0053 medb -0.0513 mae 0.0858 cov 0.932
+  DGMM b1     bias +0.5164 rb   +73.8 sd 0.7503 rmse 0.9105 mcse 0.0237 medb +0.4546 mae 0.5173 cov 0.810
+  DGMM b2     bias -0.0002 rb    -7.3 sd 0.0085 rmse 0.0085 mcse 0.0003 medb +0.0000 mae 0.0052 cov 0.975
+  DGMM b3     bias +0.0002 rb    -1.3 sd 0.0029 rmse 0.0029 mcse 0.0001 medb +0.0003 mae 0.0019 cov 0.979
+  SGMM alpha  bias +0.0155 rb    +2.2 sd 0.0635 rmse 0.0653 mcse 0.0020 medb +0.0148 mae 0.0429 cov 0.889
+  SGMM b1     bias -0.0196 rb    -2.8 sd 0.1224 rmse 0.1239 mcse 0.0039 medb -0.0174 mae 0.0810 cov 0.925
+  SGMM b2     bias -0.0006 rb   -21.1 sd 0.0111 rmse 0.0111 mcse 0.0003 medb -0.0002 mae 0.0074 cov 0.948
+  SGMM b3     bias +0.0003 rb    -2.3 sd 0.0032 rmse 0.0032 mcse 0.0001 medb +0.0001 mae 0.0021 cov 0.958
